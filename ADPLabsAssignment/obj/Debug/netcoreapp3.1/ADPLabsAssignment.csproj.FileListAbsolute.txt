@@ -1,0 +1,6 @@
+C:\Users\filip\Desktop\Cursos C#\Rest com ASP.Net Core WebApi\API Rest Genérica - C#\ADPLabsAssignment\ADPLabsAssignment\obj\Debug\netcoreapp3.1\ADPLabsAssignment.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Cursos C#\Rest com ASP.Net Core WebApi\API Rest Genérica - C#\ADPLabsAssignment\ADPLabsAssignment\obj\Debug\netcoreapp3.1\ADPLabsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Cursos C#\Rest com ASP.Net Core WebApi\API Rest Genérica - C#\ADPLabsAssignment\ADPLabsAssignment\obj\Debug\netcoreapp3.1\ADPLabsAssignment.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Cursos C#\Rest com ASP.Net Core WebApi\API Rest Genérica - C#\ADPLabsAssignment\ADPLabsAssignment\obj\Debug\netcoreapp3.1\ADPLabsAssignment.AssemblyInfo.cs
+C:\Users\filip\Desktop\Cursos C#\Rest com ASP.Net Core WebApi\API Rest Genérica - C#\ADPLabsAssignment\ADPLabsAssignment\obj\Debug\netcoreapp3.1\ADPLabsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Cursos C#\Rest com ASP.Net Core WebApi\API Rest Genérica - C#\ADPLabsAssignment\ADPLabsAssignment\obj\Debug\netcoreapp3.1\ADPLabsAssignment.MvcApplicationPartsAssemblyInfo.cache
